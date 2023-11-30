@@ -290,7 +290,7 @@ package com.Automation.Annotations;
 		Row row;
 		//int CellCount=row.getPhysicalNumberOfCells();
 		//System.out.println(CellCount);
-		for(int i=1;i<=sh.getLastRowNum();i++) {
+		for(int i=3;i<=sh.getLastRowNum();i++) {
 		System.out.println(i);
 			System.out.println(sh.getLastRowNum());
 			
